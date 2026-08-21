@@ -1,6 +1,6 @@
 # MAP 4103: Mathematical Modeling
 
-Fall Semester 2026
+**Semester:** Fall 2026
 
 **Instructor:** [Adam Rumpf, Ph.D.](https://adam-rumpf.github.io/)
 
