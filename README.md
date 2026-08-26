@@ -13,3 +13,5 @@ MATLAB code and data files used during class can be found in the folders. Links 
 * [Yeast Model Change Extended](https://www.desmos.com/calculator/vuybncs7sg)
 * [Linear Difference Equations](https://www.desmos.com/calculator/ur4htppm41)
 * [Logistic Difference Equation](https://www.desmos.com/calculator/c37blzkkkg)
+* [Cobweb Plot (Linear)](https://www.desmos.com/calculator/n4ygt49ohi)
+* [Cobweb Plot (Logistic)](https://www.desmos.com/calculator/8q7bgbcypn)
