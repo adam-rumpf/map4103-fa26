@@ -1,6 +1,6 @@
 % Solve the hawk/owl competitive population model.
 
-% Define some parameters
+% Define parameters
 N = 30; % number of iterations
 h = zeros(1, N+1); % vector of hawk population values
 o = zeros(1, N+1); % vector of owl population values
