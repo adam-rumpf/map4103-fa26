@@ -15,3 +15,9 @@ MATLAB code and data files used during class can be found in the folders. Links 
 * [Logistic Difference Equation](https://www.desmos.com/calculator/c37blzkkkg)
 * [Cobweb Plot (Linear)](https://www.desmos.com/calculator/n4ygt49ohi)
 * [Cobweb Plot (Logistic)](https://www.desmos.com/calculator/8q7bgbcypn)
+
+## Ordinary Differential Equations
+
+* [Yeast Model Log-Ratio](https://www.desmos.com/calculator/usydgro5ts)
+* [Exponential Growth Model](https://www.desmos.com/calculator/482b1f1414)
+* [Logistic Growth Model](https://www.desmos.com/calculator/kevhpndmcz)
