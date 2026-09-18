@@ -21,3 +21,4 @@ MATLAB code and data files used during class can be found in the folders. Links 
 * [Yeast Model Log-Ratio](https://www.desmos.com/calculator/usydgro5ts)
 * [Exponential Growth Model](https://www.desmos.com/calculator/482b1f1414)
 * [Logistic Growth Model](https://www.desmos.com/calculator/kevhpndmcz)
+* [Yeast Log-Ratio versus Time (Extended)](https://www.desmos.com/calculator/vrke23jj6x)
